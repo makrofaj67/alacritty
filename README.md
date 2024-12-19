@@ -12,7 +12,7 @@
 ## About
 
 Alacritty is a modern terminal emulator that comes with sensible defaults, but
-allows for extensive [configuration](#configuration). By integrating with other
+allows for extensive [configuration](#configuration)dfd. By integrating with other
 applications, rather than reimplementing their functionality, it manages to
 provide a flexible set of [features](./docs/features.md) with high performance.
 The supported platforms currently consist of BSD, Linux, macOS and Windows.
